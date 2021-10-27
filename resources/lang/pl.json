@@ -1,0 +1,19 @@
+{
+    "Password": "Hasło",
+    "Confirm Password": "Potwierdź Hasło",
+    "Remember me": "Zapamiętaj mnie",
+    "Forgot your password?": "Zapomniałeś hasła?",
+    "Log in": "Zaloguj się",
+    "Name": "Imię i Nazwisko",
+    "Already registered?": "Masz już konto?",
+    "Register": "Zarejestruj się",
+    "Reset Password": "Zresetuj hasło",
+    "Confirm": "Potwierdź",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Ta część aplikacji jest zabezpieczona. Potwierdź swoje hasło.",
+    "Email Password Reset Link": "Wyślij link do resetowania",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Zapomniałeś hasła?. Podaj swój adres email a my wyślemy na niego link resetujący który pozwoli Ci ustawić nowe hasło.",
+    "A new verification link has been sent to the email address you provided during registration.": "Nowy link resetujący zostały wysłany na podany przez Ciebie email.",
+    "Resend Verification Email": "Wyślij Link Ponownie",
+    "Log Out": "Wyloguj się",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn\\'t receive the email, we will gladly send you another.": "Dziękujemy za rejestrację. Zanim zaczniemy, czy mógłbyś zweryfikować swój adres email klikając na link, który wysłaliśmy Ci na podany adres email? Jeśli takiego linku nie otrzymałeś możemy wysłać go ponownie."
+}
